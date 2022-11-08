@@ -1,0 +1,32 @@
+.monu{
+width:320px;
+height:300px;
+background:black;
+color:#fff;
+top:60%;
+left:55%;
+position:absolute;
+transform:translate(-65%, -70%);
+box-sizing: border-box;
+padding: -10px 5px;
+border-radius:20px;
+}
+
+#old{
+padding-left:70px;
+font-size:24px;
+padding-top:60px;
+}
+
+.rat{
+padding-left:140px;
+font-size:18px;
+}
+.nam{
+display:block;
+margin:auto;
+text-align:center;
+width:120px;
+box-sizing:60px;
+color:white;
+}
